@@ -1,9 +1,9 @@
-import CustomHookExample1 from './components/CustomHookExample1';
+import CustomHookExample2 from './components/CustomHookExample2';
 
 function App() {
   return (
     <div className='container text-center '>
-      <CustomHookExample1 />
+      <CustomHookExample2 />
     </div>
   );
 }
